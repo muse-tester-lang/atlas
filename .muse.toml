@@ -1,1 +1,0 @@
-build = "gradle -b ./atlas-core/gradle.build assemble -xtest" 
